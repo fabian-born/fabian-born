@@ -9,7 +9,7 @@
 
 ## Some stats
 <a href="https://github-readme-stats.vercel.app/api?username=fabian-born&show_icons=true&theme=tokyonight&count_private=true&hide=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian-born&show_icons=true&theme=blueberry&count_private=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian-born&show_icons=true&theme=blueberry&count_private=true&hide=stars&show=reviews,discussions_started" />
 </a>
 
 
