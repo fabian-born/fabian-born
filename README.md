@@ -12,6 +12,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian-born&show_icons=true&theme=blueberry&count_private=true&hide=stars&show=reviews,discussions_started" />
 </a>
 
+## Github Page Staus
+<img src="https://github.com/fabian-born/fabian-born.github.io/actions/workflows/pages/pages-build-deployment/badge.svg"></img>
 
 
 <!--
